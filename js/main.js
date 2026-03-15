@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  let currentLang = localStorage.getItem("lang") || "en";
+  let currentLang = localStorage.getItem("lang") || "zh";
 
   const langBtn = document.getElementById("lang-toggle");
   const navLinks = document.querySelectorAll(".nav-link");
