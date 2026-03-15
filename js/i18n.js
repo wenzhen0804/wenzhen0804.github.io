@@ -37,7 +37,7 @@ const translations = {
 
     // Experience
     experienceTitle: "Research & Engineering Experience",
-    exp1Title: "HIWI (Research Assistant)",
+    exp1Title: "Research Assistant",
     exp1Company: "Technical University of Munich, Munich",
     exp1Date: "May 2024 — Oct 2025",
     exp1Desc1: "Conducted research and engineering support on robotic system prototyping, sensor integration, and embedded implementation.",
@@ -165,7 +165,7 @@ const translations = {
 
     // Experience
     experienceTitle: "科研与工程经历",
-    exp1Title: "HIWI（科研助理）",
+    exp1Title: "科研助理",
     exp1Company: "慕尼黑工业大学｜慕尼黑",
     exp1Date: "2024年5月 – 2025年10月",
     exp1Desc1: "围绕机器人系统原型开发、传感集成与嵌入式实现开展科研与工程支持工作。",
