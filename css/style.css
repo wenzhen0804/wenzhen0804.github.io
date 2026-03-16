@@ -457,6 +457,11 @@ section:nth-child(even) .timeline-item::before {
   color: rgba(255, 255, 255, 0.7);
   font-size: 0.9rem;
 }
+.visitor-count {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.5);
+}
 
 /* ===== Responsive ===== */
 @media (max-width: 768px) {

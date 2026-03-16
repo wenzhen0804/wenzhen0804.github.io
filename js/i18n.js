@@ -124,7 +124,9 @@ const translations = {
     contactPhone: "+49 15206331457",
 
     // Footer
-    footer: "© 2026 Zhen Wen. All rights reserved."
+    footer: "© 2026 Zhen Wen. All rights reserved.",
+    visitorTotal: "Total visitors",
+    visitorPageview: "Total pageviews"
   },
 
   zh: {
@@ -252,6 +254,8 @@ const translations = {
     contactPhone: "+49 15206331457",
 
     // Footer
-    footer: "© 2026 问桢 版权所有"
+    footer: "© 2026 问桢 版权所有",
+    visitorTotal: "总访客数",
+    visitorPageview: "总浏览量"
   }
 };
