@@ -358,9 +358,21 @@ section:nth-child(even) .timeline-item::before {
 }
 
 /* ===== Publications ===== */
+.pub-subtitle {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--color-heading);
+}
+
 .pub-list {
   list-style: none;
   counter-reset: pub;
+}
+
+.pub-list[start="3"] {
+  counter-reset: pub 2;
 }
 
 .pub-list li {
@@ -378,6 +390,10 @@ section:nth-child(even) .timeline-item::before {
   color: var(--color-accent);
 }
 
+.pub-list .pub-authors {
+  font-size: 0.95rem;
+}
+
 .pub-list .pub-title {
   font-weight: 600;
 }
@@ -390,6 +406,20 @@ section:nth-child(even) .timeline-item::before {
 .pub-list .pub-status {
   color: var(--color-accent);
   font-size: 0.9rem;
+}
+
+.pub-list .pub-detail {
+  font-size: 0.9rem;
+}
+
+.pub-doi {
+  color: var(--color-accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.pub-doi:hover {
+  text-decoration: underline;
 }
 
 /* ===== Skills ===== */

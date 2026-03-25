@@ -90,18 +90,24 @@ const translations = {
     proj5Keywords_4: "Pick-and-Place",
 
     // Publications
-    publicationsTitle: "Publications & Manuscripts",
+    publicationsTitle: "Publications",
+    pubFirstAuthor: "First-Author Publications",
+    pubCoAuthor: "Co-Authored Publications",
     pub1:
-      "Enhancing Durability and Payload Capacity of Tendon-Driven Continuum Robots Using a Multimaterial Soft–Rigid Hybrid Structure.",
+      '"Enhancing Durability and Payload Capacity of Tendon-Driven Continuum Robots Using a Multimaterial Soft–Rigid Hybrid Structure,"',
     pub1Journal: "IEEE/ASME Transactions on Mechatronics",
     pub1Status: "under review (3rd round)",
     pub2:
-      "Bridging Precision and Safety: A Durable Soft-Rigid Hybrid Tendon-Driven Continuum Robot for Confined Surgical Workspaces.",
-    pub2Journal: "IEEE Transactions on Medical Robotics and Bionics",
-    pub2Status: "under review (1st round)",
-    pub3: "Workspace Reconfiguration in Tendon-Driven Continuum Robots via a Concentric Rod Mechanism.",
-    pub3Journal: "IEEE/ASME Transactions on Mechatronics",
-    pub3Status: "under review (1st round)",
+      '"A Musculoskeletal-Inspired Soft–Rigid Hybrid Tendon-Driven Continuum Robot with Integrated Friction-Aware Modeling and Experimental Validation,"',
+    pub2Journal: "Mechatronics (Elsevier)",
+    pub2Status: "under review. Preprint: ",
+    pub3:
+      '"Design of a 3D-Printed Continuum Robot with Convergent Compliant Joints for Balanced Stress Distribution,"',
+    pub3Journal: "Mechatronics",
+    pub4:
+      '"Workspace Reconfiguration in Tendon-Driven Continuum Robots via a Concentric Rod Mechanism,"',
+    pub4Journal: "IEEE/ASME Transactions on Mechatronics",
+    pub4Status: "under review (1st round)",
 
     // Skills
     skillsTitle: "Skills",
@@ -221,17 +227,23 @@ const translations = {
 
     // Publications
     publicationsTitle: "学术发表",
+    pubFirstAuthor: "第一作者论文",
+    pubCoAuthor: "合作论文",
     pub1:
-      "Enhancing Durability and Payload Capacity of Tendon-Driven Continuum Robots Using a Multimaterial Soft–Rigid Hybrid Structure.",
+      '"Enhancing Durability and Payload Capacity of Tendon-Driven Continuum Robots Using a Multimaterial Soft–Rigid Hybrid Structure,"',
     pub1Journal: "IEEE/ASME Transactions on Mechatronics",
     pub1Status: "审稿中（第三轮）",
     pub2:
-      "Bridging Precision and Safety: A Durable Soft-Rigid Hybrid Tendon-Driven Continuum Robot for Confined Surgical Workspaces.",
-    pub2Journal: "IEEE Transactions on Medical Robotics and Bionics",
-    pub2Status: "审稿中（第一轮）",
-    pub3: "Workspace Reconfiguration in Tendon-Driven Continuum Robots via a Concentric Rod Mechanism.",
-    pub3Journal: "IEEE/ASME Transactions on Mechatronics",
-    pub3Status: "审稿中（第一轮）",
+      '"A Musculoskeletal-Inspired Soft–Rigid Hybrid Tendon-Driven Continuum Robot with Integrated Friction-Aware Modeling and Experimental Validation,"',
+    pub2Journal: "Mechatronics (Elsevier)",
+    pub2Status: "审稿中。预印本：",
+    pub3:
+      '"Design of a 3D-Printed Continuum Robot with Convergent Compliant Joints for Balanced Stress Distribution,"',
+    pub3Journal: "Mechatronics",
+    pub4:
+      '"Workspace Reconfiguration in Tendon-Driven Continuum Robots via a Concentric Rod Mechanism,"',
+    pub4Journal: "IEEE/ASME Transactions on Mechatronics",
+    pub4Status: "审稿中（第一轮）",
 
     // Skills
     skillsTitle: "技能",
