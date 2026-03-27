@@ -16,7 +16,7 @@ const translations = {
     heroCV: "Download CV",
 
     // About
-    aboutText: "I am a medical engineering graduate from the Technical University of Munich with a background in mechatronic engineering and a strong interest in robotics for healthcare. My work has mainly focused on continuum and soft-rigid hybrid robots, where I enjoy combining mechanical design, computational modeling, prototyping, and sensor integration to build systems that are both functional and biologically inspired.",
+    aboutText: "Hi, I am Zhen Wen. I am a medical engineering graduate from the Technical University of Munich with a background in mechatronic engineering and a strong interest in robotics for healthcare. My work has mainly focused on continuum and soft-rigid hybrid robots, where I enjoy combining mechanical design, computational modeling, prototyping, and sensor integration to build systems that are both functional and biologically inspired.",
 
     // Education
     educationTitle: "Education",
