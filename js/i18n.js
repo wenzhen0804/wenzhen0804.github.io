@@ -92,7 +92,7 @@ const translations = {
     pub1:
       '"Enhancing Durability and Payload Capacity of Tendon-Driven Continuum Robots Using a Multimaterial Soft–Rigid Hybrid Structure,"',
     pub1Journal: "IEEE/ASME Transactions on Mechatronics",
-    pub1Status: "under review (3rd round)",
+    pub1Status: "accepted",
     pub2:
       '"A Musculoskeletal-Inspired Soft–Rigid Hybrid Tendon-Driven Continuum Robot with Integrated Friction-Aware Modeling and Experimental Validation,"',
     pub2Journal: "Mechatronics (Elsevier)",
@@ -103,7 +103,7 @@ const translations = {
     pub4:
       '"Workspace Reconfiguration in Tendon-Driven Continuum Robots via a Concentric Rod Mechanism,"',
     pub4Journal: "IEEE/ASME Transactions on Mechatronics",
-    pub4Status: "under review (1st round)",
+    pub4Status: "under review",
 
     // Skills
     skillsTitle: "Skills",
@@ -228,7 +228,7 @@ const translations = {
     pub1:
       '"Enhancing Durability and Payload Capacity of Tendon-Driven Continuum Robots Using a Multimaterial Soft–Rigid Hybrid Structure,"',
     pub1Journal: "IEEE/ASME Transactions on Mechatronics",
-    pub1Status: "审稿中（第三轮）",
+    pub1Status: "已录用",
     pub2:
       '"A Musculoskeletal-Inspired Soft–Rigid Hybrid Tendon-Driven Continuum Robot with Integrated Friction-Aware Modeling and Experimental Validation,"',
     pub2Journal: "Mechatronics (Elsevier)",
@@ -239,7 +239,7 @@ const translations = {
     pub4:
       '"Workspace Reconfiguration in Tendon-Driven Continuum Robots via a Concentric Rod Mechanism,"',
     pub4Journal: "IEEE/ASME Transactions on Mechatronics",
-    pub4Status: "审稿中（第一轮）",
+    pub4Status: "审稿中",
 
     // Skills
     skillsTitle: "技能",
