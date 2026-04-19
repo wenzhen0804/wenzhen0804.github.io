@@ -92,7 +92,7 @@ const translations = {
     pub1:
       '"Enhancing Durability and Payload Capacity of Tendon-Driven Continuum Robots Using a Multimaterial Soft–Rigid Hybrid Structure,"',
     pub1Journal: "IEEE/ASME Transactions on Mechatronics",
-    pub1Status: "accepted",
+    pub1Status: "in press, 2026. DOI: ",
     pub2:
       '"A Musculoskeletal-Inspired Soft–Rigid Hybrid Tendon-Driven Continuum Robot with Integrated Friction-Aware Modeling and Experimental Validation,"',
     pub2Journal: "Mechatronics (Elsevier)",
@@ -228,7 +228,7 @@ const translations = {
     pub1:
       '"Enhancing Durability and Payload Capacity of Tendon-Driven Continuum Robots Using a Multimaterial Soft–Rigid Hybrid Structure,"',
     pub1Journal: "IEEE/ASME Transactions on Mechatronics",
-    pub1Status: "已录用",
+    pub1Status: "已录用，2026年。DOI：",
     pub2:
       '"A Musculoskeletal-Inspired Soft–Rigid Hybrid Tendon-Driven Continuum Robot with Integrated Friction-Aware Modeling and Experimental Validation,"',
     pub2Journal: "Mechatronics (Elsevier)",
